@@ -1,0 +1,1 @@
+Getting Started with Electron, Typescript, React and Webpack
